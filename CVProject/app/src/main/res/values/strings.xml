@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Circuit</string>
+    <string name="doPhoto">Сделать снимок</string>
+    <string name="LoudPhoto">Выбрать из галереи</string>
+    <string name="Manual">Справка</string>
+    <string name="Exit">Выход</string>
+    <string name="camera_icon">Camera</string>
+    <string name="gallery_icon">Gallery</string>
+    <string name="bell_icon">Bell</string>
+    <string name="exit_icon">Exit</string>
+    <string name="img">Img</string>
+    <string name="Back">Назад</string>
+    <string name="Use">Использовать</string>
+    <string name="Progress">Прогресс</string>
+    <string name="proc">Процесс выполнения: %1$d из %2$d</string>
+    <string name="Cancel">Отмена</string>
+    <string name="description">Описание</string>
+    <string name="_3d">Показать 3D модель</string>
+    <string name="advice">Рекомендация</string>
+    <string name="adviceText">Для просмотра 3D модели в документе рекомендуется установить 3D PDF Reader</string>
+    <string name="download">Скачать с Play Маркета</string>
+    <string name="result">Скопировать ссылку для демонстрации в AR</string>
+    <string name="explanation">Это приложение поможет вам определить модель детали по фото.</string>
+    <string name="NoResults">Нет результатов</string>
+    <string name="Fail">Распознование модели не удалось</string>
+    <string name="Start">Запуск процесса...</string>
+    <string name="cancelProcess">Завершение процесса...</string>
+    <string name="cancelMes">Отмена операции пользователем</string>
+    <string name="library">Библиотека</string>
+    <string name="search">Поиск</string>
+</resources>

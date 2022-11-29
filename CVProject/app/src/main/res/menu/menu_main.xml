@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_doPhoto"
+        android:title="@string/doPhoto" />
+
+    <item
+        android:id="@+id/navigation_pickPhoto"
+        android:title="@string/LoudPhoto" />
+
+    <item
+        android:id="@+id/navigation_Manual"
+        android:title="@string/Manual" />
+
+    <item
+        android:id="@+id/navigation_Exit"
+        android:title="@string/Back" />
+
+
+</menu>

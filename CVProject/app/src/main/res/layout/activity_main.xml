@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/LinearDoPhoto"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:paddingStart="35dp"
+            android:paddingEnd="1dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@mipmap/camera"
+                android:contentDescription="@string/camera_icon" />
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/doPhoto"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearGallery"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="35dp"
+            android:paddingEnd="1dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@mipmap/gallery"
+                android:contentDescription="@string/gallery_icon" />
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/LoudPhoto"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLibrary"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="35dp"
+            android:paddingEnd="1dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@mipmap/library"
+                android:contentDescription="@string/library" />
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/library"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearBell"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="35dp"
+            android:paddingEnd="1dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@mipmap/bell"
+                android:contentDescription="@string/bell_icon" />
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Manual"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearExit"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="35dp"
+            android:paddingEnd="1dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@mipmap/exit"
+                android:contentDescription="@string/exit_icon" />
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Exit"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="80dp"
+            android:layout_marginEnd="80dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginBottom="100dp"
+            android:src="@mipmap/img"
+            android:contentDescription="@string/img" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout >
