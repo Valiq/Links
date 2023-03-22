@@ -1,0 +1,15 @@
+D:\Documents\Visual Code\C#\pacman\bin\Debug\net7.0\pacman.exe
+D:\Documents\Visual Code\C#\pacman\bin\Debug\net7.0\pacman.deps.json
+D:\Documents\Visual Code\C#\pacman\bin\Debug\net7.0\pacman.runtimeconfig.json
+D:\Documents\Visual Code\C#\pacman\bin\Debug\net7.0\pacman.dll
+D:\Documents\Visual Code\C#\pacman\bin\Debug\net7.0\pacman.pdb
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.csproj.AssemblyReference.cache
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.AssemblyInfoInputs.cache
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.AssemblyInfo.cs
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.dll
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\refint\pacman.dll
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.pdb
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\pacman.genruntimeconfig.cache
+D:\Documents\Visual Code\C#\pacman\obj\Debug\net7.0\ref\pacman.dll
