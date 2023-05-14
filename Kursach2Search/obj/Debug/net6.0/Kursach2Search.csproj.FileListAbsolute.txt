@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\bin\Debug\net6.0\Kursach2Search.exe
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\bin\Debug\net6.0\Kursach2Search.deps.json
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\bin\Debug\net6.0\Kursach2Search.runtimeconfig.json
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\bin\Debug\net6.0\Kursach2Search.dll
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\bin\Debug\net6.0\Kursach2Search.pdb
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.dll
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\refint\Kursach2Search.dll
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.pdb
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\Kursach2Search.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\Projects\Kursach2Search\obj\Debug\net6.0\ref\Kursach2Search.dll
