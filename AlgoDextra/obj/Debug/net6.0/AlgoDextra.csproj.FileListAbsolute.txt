@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\bin\Debug\net6.0\AlgoDextra.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\bin\Debug\net6.0\AlgoDextra.deps.json
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\bin\Debug\net6.0\AlgoDextra.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\bin\Debug\net6.0\AlgoDextra.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\bin\Debug\net6.0\AlgoDextra.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\refint\AlgoDextra.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\AlgoDextra.genruntimeconfig.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\AlgoDextra\obj\Debug\net6.0\ref\AlgoDextra.dll

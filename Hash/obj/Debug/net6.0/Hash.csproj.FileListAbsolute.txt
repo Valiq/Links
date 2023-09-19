@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\Hash\bin\Debug\net6.0\Hash.exe
+D:\Documents\Visual Studio 2022\Projects\Hash\bin\Debug\net6.0\Hash.deps.json
+D:\Documents\Visual Studio 2022\Projects\Hash\bin\Debug\net6.0\Hash.runtimeconfig.json
+D:\Documents\Visual Studio 2022\Projects\Hash\bin\Debug\net6.0\Hash.dll
+D:\Documents\Visual Studio 2022\Projects\Hash\bin\Debug\net6.0\Hash.pdb
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.dll
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\refint\Hash.dll
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.pdb
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\Hash.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\Projects\Hash\obj\Debug\net6.0\ref\Hash.dll

@@ -1,0 +1,60 @@
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.exe
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.deps.json
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.runtimeconfig.json
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.dll
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.pdb
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.dll
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\refint\BinarySearchTree.dll
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.pdb
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\Projects\Aisd_kr_zd1\obj\Debug\net6.0\ref\BinarySearchTree.dll
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.AssemblyReference.cache
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfoInputs.cache
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfo.cs
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.dll
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\refint\BinarySearchTree.dll
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.pdb
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.exe
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.deps.json
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.runtimeconfig.json
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.dll
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.pdb
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.genruntimeconfig.cache
+D:\Desktop\Сессия 05.2023\АиСД\Aisd_kr_zd1\obj\Debug\net6.0\ref\BinarySearchTree.dll
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.exe
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.deps.json
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.runtimeconfig.json
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.dll
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.pdb
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.dll
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\refint\BinarySearchTree.dll
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.pdb
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.genruntimeconfig.cache
+C:\Users\ALEX\Desktop\аисд\Aisd_kr_zd1\obj\Debug\net6.0\ref\BinarySearchTree.dll
+D:\Desktop\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.exe
+D:\Desktop\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.deps.json
+D:\Desktop\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.runtimeconfig.json
+D:\Desktop\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.dll
+D:\Desktop\Aisd_kr_zd1\bin\Debug\net6.0\BinarySearchTree.pdb
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.AssemblyReference.cache
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfoInputs.cache
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.AssemblyInfo.cs
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.dll
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\refint\BinarySearchTree.dll
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.pdb
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\BinarySearchTree.genruntimeconfig.cache
+D:\Desktop\Aisd_kr_zd1\obj\Debug\net6.0\ref\BinarySearchTree.dll
